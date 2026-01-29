@@ -53,8 +53,8 @@ const translations = {
     'getincontact.description': 'Interested in learning more about FORGE or bringing a similar experience to your community? We\'d love to hear from you.',
     
     // Contact Form
-    'contact.title': 'Explore with us.',
-    'contact.subtitle': 'We\'re curious about the future of storytelling in this age. If you\'re interested in exploring this with us—whether you\'re a professor, film school, individual filmmaker, or production company—we\'d love to experiment together on new formats and festival models for this medium.',
+    'contact.title': 'Run Your Own Festival',
+    'contact.subtitle': 'Interested in hosting a similar event? We\'d love to help you bring AI filmmaking to your community. Get in touch with us!',
     'contact.name': 'Your Name',
     'contact.email': 'Email Address',
     'contact.context': 'Your Context',

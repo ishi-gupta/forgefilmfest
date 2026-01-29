@@ -1,7 +1,7 @@
 
-  # Event Showcase Page
+  # Event Showcase Page (Copy)
 
-  This is a code bundle for Event Showcase Page. The original project is available at https://www.figma.com/design/LQow7scfKZUjwnX1QmjgdK/Event-Showcase-Page.
+  This is a code bundle for Event Showcase Page (Copy). The original project is available at https://www.figma.com/design/MfG0aXVgjY9PvqjQJWMnli/Event-Showcase-Page--Copy-.
 
   ## Running the code
 
